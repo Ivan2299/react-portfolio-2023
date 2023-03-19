@@ -18,6 +18,7 @@ import {
 	pizza,
 	restaurant,
 	farmvest,
+	shareme,
 } from '../assets';
 
 export const navLinks = [
@@ -257,6 +258,26 @@ const projects = [
 		],
 		image: farmvest,
 		source_code_link: 'https://ivan2299.github.io/farmvest/',
+	},
+	{
+		name: 'shareme',
+		description: 'a social media app for sharing and downloading photo',
+		tags: [
+			{
+				name: 'JavaScript',
+				color: 'blue-text-gradient',
+			},
+			{
+				name: 'react',
+				color: 'green-text-gradient',
+			},
+			{
+				name: 'sanity(CMS)',
+				color: 'pink-text-gradient',
+			},
+		],
+		image: shareme,
+		source_code_link: 'https://ivan2299.github.io/shareme/',
 	},
 ];
 

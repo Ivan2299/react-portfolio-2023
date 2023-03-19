@@ -28,8 +28,10 @@ import scss from './scss.png';
 import pizza from './pizza.png';
 import restaurant from './restaurant.png';
 import farmvest from './farmvest.png';
+import shareme from './shareme.png';
 
 export {
+	shareme,
 	farmvest,
 	restaurant,
 	pizza,
