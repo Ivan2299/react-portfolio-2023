@@ -19,6 +19,7 @@ import {
 	restaurant,
 	farmvest,
 	shareme,
+	youtube,
 } from '../assets';
 
 export const navLinks = [
@@ -278,6 +279,26 @@ const projects = [
 		],
 		image: shareme,
 		source_code_link: 'https://ivan2299.github.io/shareme/',
+	},
+	{
+		name: 'youtubeclone',
+		description: 'a clone of popular media videosharing platform',
+		tags: [
+			{
+				name: 'JavaScript',
+				color: 'blue-text-gradient',
+			},
+			{
+				name: 'react',
+				color: 'green-text-gradient',
+			},
+			{
+				name: 'restAPI',
+				color: 'pink-text-gradient',
+			},
+		],
+		image: youtube,
+		source_code_link: 'https://ivan2299.github.io/youtubeclone/',
 	},
 ];
 

@@ -29,9 +29,11 @@ import pizza from './pizza.png';
 import restaurant from './restaurant.png';
 import farmvest from './farmvest.png';
 import shareme from './shareme.png';
+import youtube from './youtube.png';
 
 export {
 	shareme,
+	youtube,
 	farmvest,
 	restaurant,
 	pizza,
